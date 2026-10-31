@@ -25,6 +25,6 @@ Site de um petshop, construído nesta Fase 1 apenas com HTML (sem CSS, Bootstrap
 - README.md
 
 ## Como acessar
-Site publicado: [https://viniciuspir3s.github.io/petshop-fsw/](https://viniciuspir3s.github.io/petshop-fsw/)
+Site publicado: https://viniciuspiress.github.io/petshop/
 
 Para ver localmente, baixe os arquivos e abra o `index.html` no navegador.
